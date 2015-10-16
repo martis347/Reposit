@@ -8,6 +8,6 @@ namespace Business
 {
     public class Business
     {
-
+    	//TODO: Remove it!
     }
 }
